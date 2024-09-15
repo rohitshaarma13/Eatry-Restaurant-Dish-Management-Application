@@ -37,6 +37,6 @@ Before running this project, ensure you have the following installed:
 
 ## About Application
 ![Eatry-Restaurant-Dish-Management-Application](https://github.com/rohitshaarma13/Eatry-Restaurant-Dish-Management-Application/blob/c83bcc018756323673c0b4eb9d51db4cbf19cf0d/Project%20Snapshots/About%20App.png)
-## Contact
 
+## Contact
 For any inquiries or feedback, please contact(mailto:sharmarohits814@gmail.com).
